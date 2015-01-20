@@ -1,22 +1,7 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
 	<title></title>
-	<meta name="generator" content="LibreOffice 4.3.5.2 (MacOSX)"/>
-	<meta name="created" content="2015-01-20T01:24:27.168505000"/>
-	<meta name="changed" content="2015-01-20T01:25:16.986852000"/>
-	<style type="text/css">
-		@page { margin: 0.79in }
-		p { margin-bottom: 0.1in; line-height: 120% }
-		h2.cjk { font-family: "Arial Unicode MS" }
-		h2.ctl { font-family: "Arial Unicode MS" }
-		pre.cjk { font-family: "Courier New", monospace }
-		h3.cjk { font-family: "Arial Unicode MS" }
-		h3.ctl { font-family: "Arial Unicode MS" }
-		a:link { so-language: zxx }
-		code.cjk { font-family: "Courier New", monospace }
-	</style>
 </head>
 <body lang="es-ES" dir="ltr">
 <h2 class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal">
